@@ -1,0 +1,61 @@
+html{
+    background-color: black;
+
+}
+#d1{
+    
+    align-items: center;
+    padding-top: 60px;
+}
+#d3{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img{
+    border: 5px solid white;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+H1{
+    margin-top: 50px;
+    margin-bottom: 10px;
+    color: white;
+    text-align: center;
+    font-size: 50pt;
+    text-transform: uppercase;
+    
+}
+
+p{
+    margin-top: 25px;
+    margin-bottom: 30px;
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    color:white;
+    text-align: center;
+    font-size: 30pt
+}
+a{
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: none;
+       
+}
+#a1{
+    margin-right: 20px;
+}
+#a2{
+    margin-left: 20px;
+}
+footer{
+    font-size: large;
+    text-align: center;
+    
+    
+   
+}
